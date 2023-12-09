@@ -1,14 +1,14 @@
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
-### Recurso de aprendizaje de Cultura Digital 
+### Práctica de Cultura Digital 
 
 
-Autor: 
+Autor: Fausto Pérez Málaga
 
 
-Fecha: 
+Fecha: diciembre 2023
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+![undraw_art_museum_8or4](https://github.com/faustoperez/PEC3_Manovich_Reloaded/assets/12268629/c6a12ab3-cc1c-4e76-b6d3-85435dfc3aa3)
 
 
 
@@ -36,4 +36,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ----
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+Licencia de la ilustración: © 2023 · Katerina Limpitsouni. [https://undraw.co/license](https://undraw.co/license)
