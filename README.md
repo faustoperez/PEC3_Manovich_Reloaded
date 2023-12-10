@@ -105,6 +105,6 @@ La Sphere se inauguró al público en septiembre de 2023 y albergará hasta febr
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 * Wikipedia. **Lev Manovich**. Disponible en [https://en.wikipedia.org/wiki/Lev_Manovich](https://en.wikipedia.org/wiki/Lev_Manovich). Accedido 10 de diciembre de 2023.
 * National Geographic. **Los espectáculos de luz y sonido cambiaron nuestra manera de vivir los monumentos**. Disponible en [https://www.nationalgeographic.es/viaje-y-aventuras/2023/07/espectaculos-luz-y-sonido-mas-llamativos-mundo](https://www.nationalgeographic.es/viaje-y-aventuras/2023/07/espectaculos-luz-y-sonido-mas-llamativos-mundo). Accedido 8 diciembre 2023.
-* Moment Factory. Disponible en [https://momentfactory.com/home](https://momentfactory.com/home). Accedido 10 diciembre 2023.
+* **Moment Factory**. Disponible en [https://momentfactory.com/home](https://momentfactory.com/home). Accedido 10 diciembre 2023.
 * Wikipedia. **Sphere (venue)**. Disponible en: [https://en.wikipedia.org/wiki/Sphere_(venue)](https://en.wikipedia.org/wiki/Sphere_(venue)) Accedido 10 diciembre 2023.
 * **The Sphere Experience**. Disponible en [https://www.thespherevegas.com/shows/the-sphere-experience](https://www.thespherevegas.com/shows/the-sphere-experience). Accedido 10 diciembre 2023.
