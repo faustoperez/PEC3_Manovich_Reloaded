@@ -10,7 +10,7 @@
 ## Introducción. Acerca de Lev Manovich
 
 ![dsc_1880_-edit-square_max](https://github.com/faustoperez/PEC3_Manovich_Reloaded/assets/12268629/1d93fcbb-76c7-4efb-b759-55af97555cf7)
-Lev Manovich. Foto sacada de la web Manovich.net http://manovich.net/index.php/about
+Lev Manovich. Fuente: http://manovich.net/index.php/about
 
 Lev Manovich es un artista, autor y teórico de la cultura digital. El trabajo de Manovich se centra en las humanidades digitales, la informática social, el arte y la teoría de los nuevos medios, y los estudios de software.
 
