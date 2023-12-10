@@ -56,7 +56,7 @@ Los espectáculos de luz y sonido sobre monumentos históricos utilizan tecnolog
 La evolución del software ha permitido hacer mapeados tridimensionales de edificios y envolver cualquier estructura en geometría superpuesta y mezclada, lo que permite crear minipelículas proyectadas en edificios históricos o maravillas naturales.
 
 ![image](https://github.com/faustoperez/PEC3_Manovich_Reloaded/assets/12268629/f0e45b32-66d0-4660-a05c-6a72f2e81d72)
-Mapeo de la catedral de Nôtre Dame de Montreal en Cinema 4D. Fuente: https://momentfactory.com/
+Mapeo de la basílica de Nôtre Dame de Montreal en Cinema 4D. Fuente: https://momentfactory.com/
 
 
 ### Hibridación de cine, historia y tecnología moderna
