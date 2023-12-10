@@ -20,7 +20,7 @@ Su libro *El software toma el mando* es el texto central que estamos estudiando 
 
 ## La hibridación según Manovich
 
-La **hibridación**, según Lev Manovich en su libro *El software toma el mando*, es un concepto clave para entender los nuevos medios y la cultura digital contemporánea. Manovich describe la **hibridación** como el proceso mediante el cual diferentes formas de medios y prácticas culturales se fusionan, dando lugar a nuevas formas híbridas, lo que resulta en obras que trascienden los límites de los medios individuales (Manovich, 2013, Parte 2, Capítulo 3).
+La **hibridación**, según Lev Manovich en su libro *El software toma el mando*, es un concepto clave para entender los nuevos medios y la cultura digital contemporánea. Manovich describe la hibridación como el proceso mediante el cual diferentes formas de medios y prácticas culturales se fusionan, dando lugar a nuevas formas híbridas, lo que resulta en obras que trascienden los límites de los medios individuales (Manovich, 2013, Parte 2, Capítulo 3).
 
 En este proceso de hibridación 
 
@@ -44,14 +44,14 @@ cuyo resultado
 ### ¿Cómo reconocer una de estas hibridaciones? ¿Cómo distinguir de otras (multimedia/remediación)?
 En contraste con la **multimedia**, donde diferentes medios coexisten en un mismo espacio pero mantienen sus identidades separadas, la hibridación implica una fusión más profunda, donde los límites entre los medios se desdibujan. Los medios híbridos resultantes presentan características y capacidades que no podrían ser logradas por ningún medio individual por separado. La hibridación, por lo tanto, no es solo la suma de medios, sino la creación de algo nuevo y distinto.
 
-En el caso de la remediación, ésta implica llevar un contenido o forma de un medio (como un texto impreso) a otro (como un entorno digital), manteniendo en gran medida las características del medio original. En cambio, la hibridación, facilitada por el software, permite una interacción más profunda y creativa entre medios diferentes, generando nuevas formas que pueden ir más allá de las capacidades de los medios individuales.
+En el caso de la **remediación**, ésta implica llevar un contenido o forma de un medio (como un texto impreso) a otro (como un entorno digital), manteniendo en gran medida las características del medio original. En cambio, la hibridación, facilitada por el software, permite una interacción más profunda y creativa entre medios diferentes, generando nuevas formas que pueden ir más allá de las capacidades de los medios individuales.
 
 
 ----
 
 ## Re-descubriendo la hibridacion: Espectáculos de luz y sonido sobre monumentos históricos
 
-Los espectáculos de luz y sonido sobre monumentos históricos utilizan tecnologías avanzadas de proyección y sistemas de audio para "revestir" estos edificios con visuales impactantes y narrativas sonoras, utilizándolos como si fueran pantallas de cine. Estos espectáculos transforman los monumentos en lienzos para el arte digital, creando una experiencia inmersiva que combina la historia, la arquitectura y las artes digitales.
+Los espectáculos de luz y sonido sobre monumentos históricos utilizan tecnologías avanzadas de proyección y sistemas de audio para "revestir" estos edificios con visuales impactantes y narrativas sonoras, utilizándolos como si fueran pantallas de cine. Estos espectáculos **transforman los monumentos en lienzos para el arte digital**, creando una experiencia inmersiva que combina la historia, la arquitectura y las artes digitales.
 
 La evolución del software ha permitido hacer mapeados tridimensionales de edificios y envolver cualquier estructura en geometría superpuesta y mezclada, lo que permite crear minipelículas proyectadas en edificios históricos o maravillas naturales.
 
@@ -61,11 +61,11 @@ Mapeo de la catedral de Nôtre Dame de Montreal en Cinema 4D. Fuente: https://mo
 
 ### Hibridación de cine, historia y tecnología moderna
 
-Este fenómeno representa una hibridación entre el cine, la historia y la tecnología moderna. Al proyectar arte digital sobre edificios históricos, los creadores de estos espectáculos están proponiendo una fusión entre el pasado y el presente, donde la historia se cuenta a través de medios digitales contemporáneos. Esta unión entre lo antiguo y lo nuevo crea una nueva forma de expresión cultural, distinta a la suma de sus partes.
+Este fenómeno representa una **hibridación entre el cine, la historia y la tecnología moderna**. Al proyectar arte digital sobre edificios históricos, los creadores de estos espectáculos están proponiendo una fusión entre el pasado y el presente, donde la historia se cuenta a través de medios digitales contemporáneos. Esta unión entre lo antiguo y lo nuevo crea una nueva forma de expresión cultural, distinta a la suma de sus partes.
 
 ### Relación con las teorías de Manovich
 
-Siguiendo las teorías de Manovich sobre la hibridación en *El software toma el mando*, estos espectáculos de luz y sonido son ejemplos de cómo los nuevos medios digitales pueden ser utilizados para reimaginar y reinterpretar experiencias culturales tradicionales. Manovich (2013) discute cómo los medios digitales tienen la capacidad única de transformar y expandir las prácticas artísticas y culturales, y estos espectáculos son una manifestación directa de este concepto.
+Siguiendo las teorías de Manovich sobre la hibridación en *El software toma el mando*, estos espectáculos de luz y sonido son ejemplos de cómo los nuevos medios digitales pueden ser utilizados para reimaginar y reinterpretar experiencias culturales tradicionales. Manovich (2013) explica cómo los medios digitales tienen la capacidad única de transformar y expandir las prácticas artísticas y culturales, y estos espectáculos son una manifestación directa de este concepto.
 
 
 <a href="https://youtu.be/FV3XdOda3zM?si=sH9hIFMWBNpmaInI" target="_blank">
@@ -87,9 +87,9 @@ The Sphere es una estructura con una  **altura de 112 metros y un ancho de 157 m
 
 ### Relación con las teorías de Manovich
 
-De acuerdo con las enseñanzas de Manovich sobre la hibridación, la Sphere es un ejemplo de cómo los medios tradicionales (en este caso, la arquitectura y los espectáculos en vivo) pueden fusionarse con tecnologías digitales para crear nuevas formas de expresión. Manovich explica cómo la digitalización permite la transformación de medios y prácticas culturales tradicionales, lo que conduce a la creación de nuevas formas de expresión cultural.
+De acuerdo con las enseñanzas de Manovich sobre la hibridación, la Sphere es un ejemplo de cómo los medios tradicionales (en este caso, la arquitectura y los espectáculos en vivo) pueden fusionarse con tecnologías digitales para crear nuevas formas de expresión. Manovich (2013) explica cómo la digitalización permite la transformación de medios y prácticas culturales tradicionales, lo que conduce a la **creación de nuevas formas de expresión cultural**.
 
-En este sentido, La Sphere no solo es un lugar para eventos, sino un espacio inmersivo que transforma la manera en que los visitantes experimentan el entretenimiento. La combinación de música en directo, visuales impactantes y sonido envolvente crea una experiencia multisensorial que redefine lo que significa asistir a un espectáculo en vivo. El nuevo medio híbrido que resulta presenta capacidades que no podrían ser logradas por ningún medio individual por separado.
+En este sentido, La Sphere no solo es un lugar para eventos, sino un espacio inmersivo que transforma la manera en que los visitantes experimentan el entretenimiento. La combinación de música en directo, visuales impactantes y sonido envolvente crea una experiencia multisensorial que redefine lo que significa asistir a un espectáculo en vivo. El **nuevo medio híbrido** que resulta presenta capacidades que no podrían ser logradas por ningún medio individual por separado.
 
 La Sphere se inauguró al público en septiembre de 2023 y albergará hasta febrero de 2024 una serie de conciertos del grupo U2.
 
