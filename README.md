@@ -67,7 +67,7 @@ Este fenómeno representa una **hibridación entre el cine, la historia y la tec
 
 Siguiendo las teorías de Manovich sobre la hibridación en *El software toma el mando*, estos espectáculos de luz y sonido son ejemplos de cómo los nuevos medios digitales pueden ser utilizados para reimaginar y reinterpretar experiencias culturales tradicionales. Manovich (2013) explica cómo los medios digitales tienen la capacidad única de transformar y expandir las prácticas artísticas y culturales, y estos espectáculos son una manifestación directa de este concepto.
 
-En términos de Manovich, estos espectáculos representan una hibridación en la propia interfaz, donde el contenido digital se superpone a la arquitectura física. Esto va más allá de la simple visualización; es una reimaginación activa de la historia y la cultura a través de las lentes del arte digital y la tecnología. Además, la manipulación de datos y la integración de elementos multimedia en estos espectáculos reflejan lo que Manovich denomina la "lógica de la variabilidad" del software, donde el contenido puede ser adaptado y cambiado en tiempo real, ofreciendo experiencias únicas en cada presentación.
+Relacionándolo con las enseñanzas de Manovich, estos espectáculos representan una hibridación en la propia interfaz, donde el contenido digital se superpone a la arquitectura física. Esto va más allá de la simple visualización; es una reimaginación activa de la historia y la cultura a través de las lentes del arte digital y la tecnología. Además, la manipulación de datos y la integración de elementos multimedia en estos espectáculos reflejan lo que Manovich denomina la "lógica de la variabilidad" del software, donde el contenido puede ser adaptado y cambiado en tiempo real, ofreciendo experiencias únicas en cada presentación.
 
 
 <a href="https://youtu.be/FV3XdOda3zM?si=sH9hIFMWBNpmaInI" target="_blank">
@@ -93,7 +93,7 @@ De acuerdo con las enseñanzas de Manovich sobre la hibridación, la Sphere es u
 
 En este sentido, La Sphere no solo es un lugar para eventos, sino un espacio inmersivo que transforma la manera en que los visitantes experimentan el entretenimiento. La combinación de música en directo, visuales impactantes y sonido envolvente crea una experiencia multisensorial que redefine lo que significa asistir a un espectáculo en vivo. El **nuevo medio híbrido** que resulta presenta capacidades que no podrían ser logradas por ningún medio individual por separado.
 
-El edificio mismo se convierte en una interfaz para experiencias multimedia. Manovich habla de la importancia de los metamedios en la cultura del software, y The Sphere ejemplifica este concepto al funcionar como una plataforma de medios en sí misma. Aquí, la hibridación se manifiesta no solo en la mezcla de medios, sino también en la forma en que se manipulan los datos y se crea una narrativa visual y auditiva. La Sphere utiliza tecnologías avanzadas para manipular datos visuales y sonoros en tiempo real, creando un entorno inmersivo que redefine la experiencia del espectador. Esto refleja la "lógica de la transcodificación" de Manovich, donde la información se convierte y se presenta en formatos novedosos, permitiendo nuevas formas de expresión y percepción en el dominio digital.
+El edificio mismo se convierte en una interfaz para experiencias multimedia. Manovich habla de la **importancia de los metamedios** en la cultura del software, y The Sphere ejemplifica este concepto al funcionar como una **plataforma de medios en sí misma**. Aquí, la hibridación se manifiesta no solo en la mezcla de medios, sino también en la forma en que se manipulan los datos y se crea una narrativa visual y auditiva. La Sphere utiliza tecnologías avanzadas para manipular datos visuales y sonoros en tiempo real, creando un entorno inmersivo que redefine la experiencia del espectador. Esto refleja la "lógica de la transcodificación" de Manovich, donde la información se convierte y se presenta en formatos novedosos, permitiendo nuevas formas de expresión y percepción en el dominio digital.
 
 La Sphere se inauguró al público en septiembre de 2023 y albergará hasta febrero de 2024 una serie de conciertos del grupo U2.
 
@@ -101,6 +101,11 @@ La Sphere se inauguró al público en septiembre de 2023 y albergará hasta febr
  <img src="https://github.com/faustoperez/PEC3_Manovich_Reloaded/assets/12268629/911d3031-baec-44ab-9bea-dee1fea2fc57" alt="U2 - Live at Sphere"/>
 </a>
 
+----
+
+### Conclusión
+
+En este trabajo he intentado explorar **cómo la hibridación de medios redefine nuestra experiencia cultural**. Los dos ejemplos que he elegido ilustran la capacidad del software para fusionar lo antiguo con lo nuevo, lo físico con lo digital, creando formas de expresión y comunicación que antes eran inimaginables. En esta época contemporánea definida por el cambio constante y la innovación, es emocionante imaginar qué nuevas formas de hibridación aparecerán en los próximos años y cómo continuarán desafiando nuestras percepciones tradicionales de los medios y la cultura.
 
 ----
 
